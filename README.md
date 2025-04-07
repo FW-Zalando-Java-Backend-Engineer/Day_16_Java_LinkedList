@@ -223,7 +223,7 @@ cart.push("Milk");           // Redo: push to front
 - [Baeldung: Java Queue Interface](https://www.baeldung.com/java-queue)
 - [Java Docs: LinkedList](https://docs.oracle.com/javase/8/docs/api/java/util/LinkedList.html)
 - [GeeksForGeeks: Queue in Java](https://www.geeksforgeeks.org/queue-interface-java/)
-- [Java Deque Tutorial](https://www.baeldung.com/java-deque)
+- [Java Deque Tutorial](https://www.youtube.com/watch?v=gXZt4P97UW4)
 
 ---
 
