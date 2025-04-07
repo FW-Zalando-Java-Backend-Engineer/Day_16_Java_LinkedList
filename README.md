@@ -234,7 +234,7 @@ cart.push("Milk");           // Redo: push to front
 
 
 ## **🖥️ Live Coding**
-📂 [Live Coding Example](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-16_ShoppingCart_Queue_LinkedList/tree/main/Day_16)
+📂 [Live Coding Example](https://github.com/FW-Zalando-Java-Backend-Engineer/Day_16_Java_LinkedList/tree/main/Day_16)
 
 ---
 
