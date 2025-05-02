@@ -228,7 +228,7 @@ cart.push("Milk");           // Redo: push to front
 ---
 
 ## **🎥 Video Lesson Recording**
-📺 [Video Lesson Recording](_Will be Added Later_)
+📺 [Video Lesson Recording](https://us06web.zoom.us/rec/share/1f5jeoW_sFCGNLws30tC-DgTzltiiBhGEwBQD3K39PJYaYPM-zI-htpjHrEvCRgO.2ScRoBTZbLqvQ1eZ?startTime=1744011172000)
 
 ---
 
